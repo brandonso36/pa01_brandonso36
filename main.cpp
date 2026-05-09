@@ -25,7 +25,7 @@ int main(int argv, char** argc){
 
   //Read each file
   while (getline (cardFile1, line) && (line.length() > 0)){
-
+    
   }
   cardFile1.close();
 
